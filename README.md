@@ -11,4 +11,4 @@ Problemas:
 
 Proyecto dedicado a la documentación proyecto PIMA 1ºASIR
 
-Autoría: CLS
+Autoría: CLS - trabajo en pareja con: MLD
