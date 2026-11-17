@@ -1,5 +1,3 @@
-# 2
-
 # Clasificamos empresas informáticas
 
 PIMA · 1.º ASIR · UD02 · Sesión 6 · 17/11/2026
