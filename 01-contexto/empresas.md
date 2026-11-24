@@ -79,17 +79,16 @@ Respuesta:
 - Captar clientes y presupuestarlos: se encarga el comercial
 - Decidir las funciones de la aplicación y coordinar el trabajo: se encargan los jefes de proyecto
 - Desarrollar la aplicación y corregir errores: se encargan los programadores
-- Atender dudas:
 
 ## Parte C · Necesidades de los clientes
 
 **4\. Una gestoría necesita instalar una red informática y configurar un servidor. ¿A cuál de las tres empresas contratarías? ¿Por qué?**
 
-Respuesta: …
+Respuesta: RedesMancha, porque se dedica a instalar redes y configuar servidores.
 
 **5\. Una tienda de ropa necesita una aplicación de gestión a medida. ¿A cuál de las tres empresas contratarías? ¿Por qué?**
 
-Respuesta: …
+Respuesta: Aplicaciones Centro, ya que se dedica al desarollo de aplicaciones de gestión a medida para los clientes.
 
 ## Ampliación opcional · Organigrama
 
@@ -104,8 +103,16 @@ Gerente (1): dirige y prepara presupuestos
   - Administración (1): facturas y pagos
 ```
 
-**Empresa elegida:** …
+**Empresa elegida:**
+
+RedesMancha
 
 ```text
-…
+Socios (2): dirigen la empresa
+  - Socio comercial (1): visita a los clientes y prepara los presupuestos
+  - Jefe técnico (1): planifica los trabajos
+    - Técnicos de instalación (7): instalan redes y servidores en casa del cliente
+    - Técnicos de soporte (2): atienden incidencias por teléfono y en remoto
+  - Administración (1): facturas, contratos y pagos
+
 ```
